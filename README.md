@@ -34,6 +34,8 @@ pip install -r requirements.txt
 deon notebooks/group-qualitative-case-study/ethics.md
 ```
 
+The case study prompts are [here](notebooks/group-qualitative-case-study/group-qualitative-case-study-prompt.png).
+
 We encourage you to take notes in your `ethics.md` file. We also encourage you to contribute your groups notes to this repository through a pull request. Please name your file with your group number.
 
 ### Eviction Data Case Study Instructions
