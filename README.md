@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### Group Case Study Instructions
 
 ```shell
-deon notebooks/group-qualitative-case-study/ethics.md
+deon -o notebooks/group-qualitative-case-study/ethics.md
 ```
 
 The case study prompts are [here](notebooks/group-qualitative-case-study/group-qualitative-case-study-prompt.png).
