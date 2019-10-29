@@ -16,7 +16,7 @@ cd odsc-west-2019
 Set up environment:
 
 ```shell
-conda create -n odsc-ethics python=3.7
+conda create -n odsc-ethics -y python=3.7
 conda activate odsc-ethics
 ```
 
