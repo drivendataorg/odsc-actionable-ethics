@@ -2,7 +2,7 @@
 
 Repository for [workshop](https://odsc.com/training/portfolio/practical-data-ethics-with-deon/) at ODSC West 2019. See [abstract](#abstract) for a summary of the workshop contents.
 
-Slides: To Be Added
+Presentation Slides: [slides.pdf](slides.pdf)
 
 ## Installation Instructions
 
