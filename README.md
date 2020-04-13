@@ -15,6 +15,8 @@ cd odsc-actionable-ethics
 
 Set up environment:
 
+> If you don't already have conda, [install Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+
 ```shell
 conda create -n odsc-ethics -y python=3.7
 conda activate odsc-ethics
